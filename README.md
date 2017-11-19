@@ -1,4 +1,4 @@
-made by Maxime Aubanel & Victor Mariton
+made by Maxime Aubanel & Victor Mariton in 3 days
 
 made in 3 days
 
