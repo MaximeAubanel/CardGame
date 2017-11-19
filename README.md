@@ -18,3 +18,8 @@ Also think about multi-client management and asynchronous functions so that the 
 doesn’t jam up
 
 To have your server communicate with its clients, you need to implement your own RFC.
+
+
+
+
+made in 3 days
