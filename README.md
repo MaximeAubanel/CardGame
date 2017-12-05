@@ -18,9 +18,14 @@ doesn’t jam up
 To have your server communicate with its clients, you need to implement your own RFC.
 
 
-## Built With
+## Getting Started
 
-* NetworkComms.net
+Launch the server and the client. Then it's pretty straightforward.
+
+
+## Prerequisites & How to get them
+
+* NetworkComms.net ( Use the nugget packet manager )  
 
 
 ## Authors
