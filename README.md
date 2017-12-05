@@ -23,7 +23,7 @@ To have your server communicate with its clients, you need to implement your own
 Launch the server and the client. Then it's pretty straightforward.
 
 
-## Prerequisites & How to get them
+### Prerequisites & How to get them
 
 * NetworkComms.net ( Use the nugget packet manager )  
 
